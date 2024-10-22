@@ -1,1 +1,1 @@
-Versió FINAL
+Funciona tot correcte 
